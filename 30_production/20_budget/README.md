@@ -4,7 +4,7 @@
 ## Matériel technique
 | DESCRIPTION                     | QUANTITÉ      | PRIX UNITAIRE | COÛT TOTAL | LIEN D'ACHAT |
 |:--------------------------------|:--------------|--------------:|-----------:|-------------:|
-| Roulement de billes de transfert| 6             |               |            |[Lien Amazon]()|
+| Roulement de billes de transfert| 6             | 12.59         |            |[Lien Amazon]()|
 | Module LIDAR                    | 2             |               |            |[Lien Amazon]()|
 | PMW3360 Motion Sensor           | 1             |               |            |[Lien Amazon]()|
 
