@@ -2,9 +2,11 @@
 500$
 
 ## Matériel technique
-| DESCRIPTION                 | QUANTITÉ      | PRIX UNITAIRE | COÛT TOTAL | LIEN D'ACHAT |
-|:----------------------------|:--------------|--------------:|-----------:|-------------:|
-| Roulette sphérique          | 6             |               |            |[Lien Amazon]()|
+| DESCRIPTION                     | QUANTITÉ      | PRIX UNITAIRE | COÛT TOTAL | LIEN D'ACHAT |
+|:--------------------------------|:--------------|--------------:|-----------:|-------------:|
+| Roulement de billes de transfert| 6             |               |            |[Lien Amazon]()|
+| Module LIDAR                    | 2             |               |            |[Lien Amazon]()|
+| PMW3360 Motion Sensor           | 1             |               |            |[Lien Amazon]()|
 
 ## Matériaux de l'installation physique
 | DESCRIPTION                 | QUANTITÉ      | PRIX UNITAIRE | COÛT TOTAL | LIEN D'ACHAT |
