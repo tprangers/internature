@@ -2,7 +2,7 @@
 
 ## Budget Total : 500$
 
-### Matériel techniques
+### Matériel technique
 
 ### Matériaux de l'installation physique
 | DESCRIPTION                 | QUANTITÉ      | PRIX UNITAIRE | COÛT TOTAL | LIEN D'ACHAT |
