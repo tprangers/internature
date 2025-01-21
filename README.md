@@ -1,16 +1,12 @@
-# 58266b-experience-modele
+# Internature 
 
-Modèle de publication pour le cours 582 66B experience multimedia interactive
+Résumé (~ 100 mots)
 
-## Devrait être présent sur cette page:
+## Bande-annonce
 
-* Titre
-* Bande-annonce
-* Résumé du projet (~ 100 mots)
-* Documentation vidéo de l'installation en action
-* Gallerie photo du projet réalisé
+## Documentation installation
 
-## Gallerie image exemple
+## Gallerie image
 
 * ![Image 1](https://placehold.co/400x400?text=1+image)
 * ![Image 2](https://placehold.co/400x400?text=2+image)
