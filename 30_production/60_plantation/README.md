@@ -1,2 +1,2 @@
 # Plantation
-![Plantation](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/20_plantation/)
+![Plantation](assets/plantation_serre.jpg)
