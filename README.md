@@ -1,6 +1,6 @@
 # Internature 
 
-Résumé (~ 100 mots)
+**Internature** est une expérience immersive qui intègre le mapping vidéo intéractif sur les parois, accompagné d'une musique ambiante et des bruitages. Au cœur de cet environnement, les visiteurs sont invités à interagir avec une boule lumineuse qui déclenche un spectacle de lumière unifiant toutes les projections. Cette expérience créer une opportunité aux participants pour se reconnecter avec la nature et à redécouvrir le lien entre l'impact humain, sa technologie et la nature.
 
 ## Bande-annonce
 
