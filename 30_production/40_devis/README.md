@@ -20,21 +20,25 @@
 
 
 ## Logiciel
-| Application              |  Frais d'abonnement  ($)  |
-|  :--------------------:  |  :---------------------:  |
-|  Arduino                 |  0.00$                    |
-|  Mapmapper               |  0.00$                    |
-|  Reaper                  |  0.00$                    |
-|  VCV Rack                |  0.00$                    |
-|  Touch Designer          |  0.00$                    |
-|  PlugData                |  0.00$                    |
-|  Synth One (Ipad)        |  0.00$                    |
-|  Garage Band (Ipad)      |  0.00$                    |
-|  Sketch Book             |  0.00$                    |
-|  After Effect            |  0.00$                    |
-|  Photoshop               |  0.00$                    |
+| Application              |  Frais d'abonnement  ($)  |  Fournis par partenaire d'accueil  |
+|  :--------------------:  |  :---------------------:  |  :-------------------------------: |
+|  Arduino                 |  0.00$                    |  oui  |
+|  Mapmapper               |  0.00$                    |  oui  |
+|  Reaper                  |  0.00$                    |  oui  |
+|  VCV Rack                |  0.00$                    |  oui  |
+|  Touch Designer          |  0.00$                    |  oui  |
+|  PlugData                |  0.00$                    |  oui  |
+|  Synth One (Ipad)        |  0.00$                    |  Non  |
+|  Garage Band (Ipad)      |  0.00$                    |  Non  |
+|  Sketch Book             |  0.00$                    |  oui  |
+|  After Effect            |  0.00$                    |  oui  |
+|  Photoshop               |  0.00$                    |  oui  |
 
-## Coût estimé
+
+
+## Réseautage
+-  Ethernet
+-  OSC
 
 
 
