@@ -1,7 +1,7 @@
 # Ambiance
 
 <!-- Ici mettre tous les documents et références associés à l'établissement de l'ambiance du projet   -->
-
+![moodboard](https://github.com/tprangers/internature/blob/main/assets/internature_moodboard.jpg)
 ## Références
 
 [Hand attracted particles - touchdesigner tutorial](https://www.youtube.com/watch?v=0agyZ8gVZ1E)
