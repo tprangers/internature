@@ -16,7 +16,7 @@ Un audio calme mêlant des synthétiseurs et des montages sonores expérimentaux
 - [Composition de la vidéo *Planets* de Teamlab](https://www.youtube.com/watch?app=desktop&v=-uJTk_mRmUY)
 - [*piano077* de Oscar Scannell](https://www.youtube.com/watch?app=desktop&v=oGSitxblbAg)
 - [Composition sonore venant de *Lost & Found* de Max Lemmit](https://www.youtube.com/watch?app=desktop&v=gpSLtYSHFmg)
-- 
+  
  #### Références sonores
 - [teamLab Borderless Hamburg: Digital Art Museum](https://www.youtube.com/watch?v=rwnFygwoqOQ)
 - [Human Nature- an interactive audiovisual installation in the Satosphere](https://www.youtube.com/watch?v=Kt4FWBp3Xoo&t=66s)
