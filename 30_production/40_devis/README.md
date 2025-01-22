@@ -16,9 +16,8 @@
 | Bandes lumineuses LED   |  2       |  0              |
 | Serre portative         |  1       |  160            |
 | Boîte de pomme          |  4       |  0              |
-|  Total                  | Prix estimé totale ($)     |
-| :----------------------:| :-----------------------:  |
-|                         | 491                        |
+|  Total       | Prix estimé totale ($)  |  491        |
+
 
 ## Coût estimé
 
