@@ -39,7 +39,12 @@
 ## Réseautage
 -  Ethernet
 -  OSC
-
+## Responsabilité
+|  Responsabilité du partenaire |  Responsabilité de l'artiste  |
+|  :--------------------------: |  :--------------------------: |
+|  Emplacement de studio avec électricité et Ethernet disponible  |  Mise en place fluide et fonctionnement du projet|
+|  Fourniture des matériels possédés par le partenaire  |  Assuré de prévoir les biens matériels nécessaires  |
+|  Disposition d'un budget nécessaire à la conception du projet  |  N/A  |
 
 
 ## Référence
