@@ -1,5 +1,8 @@
 # Synopsis
 
+## Pitch 
+Expérience immersive dans une serre, plongeant les visiteurs dans une plage de projections intéractives et qui apporte la réflection sur notre implication en tant qu'humain sur l'environnement.
+
 ## Concept
 **Internature** est une expérience immersive qui intègre le mapping vidéo intéractif sur les parois, accompagné d'une musique ambiante et de sons immersifs. Au cœur de cet environnement, les visiteurs sont invités à interagir avec une boule lumineuse qui déclenche un spectacle de lumière unifiant toutes les projections. Cette expérience invite les participants à reconnecter avec la nature et à redécouvrir leur lien avec elle de manière unique et émotionnelle.
 
