@@ -1,8 +1,8 @@
 # Scénarimage
 
-<!-- Ici mettre tous les documents et références associés au scénarimage  -->
+
+![Scénarimage partie 1](20_intention/40_scenarimage/assets/scenarimage01.jpg)
+![Scénarimage partie 2](20_intention/40_scenarimage/assets/scenarimage02.jpg)
 
 
 ## Réferences 
-
-[Scénarimage](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/40_scenarimage/)
