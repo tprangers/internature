@@ -7,11 +7,11 @@
 #### Capteur de tracking
 Capturent le mouvement ou la profondeur de l’espace pour analyser les actions des utilisateurs.
 
-- * [Kinect](https://support.xbox.com/en-US/help/hardware-network/console/manuals-specs)(RGB, IR, Profondeur)
+- [Kinect](https://support.xbox.com/en-US/help/hardware-network/console/manuals-specs) (RGB, IR, Profondeur)
 
 #### LIDAR 
 Capteurs avancés permettant une cartographie 3D en temps réel de l’espace environnant, détectant les distances et les mouvements à distance.
-- * [LIDAR](#)
+- LIDAR
 
 ### Processeurs
 
