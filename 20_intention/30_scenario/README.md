@@ -10,6 +10,14 @@
 
 * Toutes les façons que les interacteurs peuvent faire progresser l’expérience
 
+```mermaid
+flowchart TD
+    A[Animation visuelle minime et volume en pause : état de veille] -->|Visiteur entre dans la serre| B[Déclenchement de l'audio et de l'environnement interactif]
+    B --> C[Interagir avec la sphère]
+    C -->|Pendant 30 secondes| D[Déclenchement de l'environnement interactif unifié] 
+    D --> |Pendant 2 minutes| A[Animation visuelle minime en veille]
+
+```
 
 ## Références
 
