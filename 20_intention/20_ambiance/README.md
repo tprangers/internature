@@ -2,7 +2,7 @@
 
 <!-- Ici mettre tous les documents et références associés à l'établissement de l'ambiance du projet   -->
 ### Planche d'ambiance visuelle
-![moodboard](./tprangers/internature/blob/main/assets/internature_moodboard.jpg)
+![moodboard](https://github.com/tprangers/internature/blob/main/assets/internature_moodboard.jpg)
 
 ### Planche d'ambiance sonore
 Un audio calme mêlant des synthétiseurs et des montages sonores expérimentaux, où des sons subtils issus de la nature sont transformés et réorganisés pour leur donner une nouvelle vie à travers notre art.
