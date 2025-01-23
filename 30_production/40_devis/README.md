@@ -15,7 +15,6 @@
 | Bandes lumineuses LED   |  2       |  0              |
 | Serre portative         |  1       |  160            |
 | Boîte de pomme          |  4       |  0              |
-| Boule (Style yoga)      |  1       |  15             |
 | American DJ (spot)      |  1       |  0              |
 |  Total       | Prix estimé totale ($)  |  Bust       |
 
@@ -50,4 +49,4 @@
 
 ## Référence
 
-* [Devis technique](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/50_devis_technique/)
+ <!--* [Devis technique](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/50_devis_technique/) -->
