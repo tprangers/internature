@@ -36,7 +36,6 @@ Utilisés pour diffuser des vidéos interactives, des images animées, ou des in
 #### Audio 
 
 - Hauts-parleurs actifs
-- Hauts-parleurs DiVoom
 
 #### Lumières
 Permettent de créer des environnements lumineux dynamiques.
@@ -54,9 +53,7 @@ Utilisés pour développer des expériences interactives où les actions des uti
 - VCV Rack
 - TouchDesigner
 - Plugdata
-- Synth One (Ipad)
-- Garage Band (Ipad)
-- Sketch Book
+- Surge XT
 - After effect
 - Photoshop
 
