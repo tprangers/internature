@@ -3,7 +3,7 @@
 ## Matériel Requis
 | Item                    | Stock    | Prix estimé ($) |
 | :----------------------:| :------: |  :-----------:  |
-| Ordinateur              |  1       |  0              |
+| Ordinateur Epson        |  1       |  0              |
 | Projecteur              |  3       |  0              |
 | Haut-parleur Genelec    |  2       |  0              |
 | Balle de bowling        |  1       |  20             |
@@ -16,7 +16,7 @@
 | Serre portative         |  1       |  160            |
 | Boîte de pomme          |  4       |  0              |
 | American DJ (spot)      |  1       |  0              |
-|  Total       | Prix estimé totale ($)  |  Bust       |
+|  Total       | Prix estimé totale ($)  |  641        |
 
 
 ## Logiciel
@@ -41,6 +41,6 @@
 |  :--------------------------: |  :--------------------------: |
 |  Emplacement de studio avec électricité et Ethernet disponible  |  Mise en place fluide et fonctionnement du projet|
 |  Fourniture des matériels possédés par le partenaire  |  Assuré de prévoir les biens matériels nécessaires  |
-|  Disposition d'un budget nécessaire à la conception du projet  |  N/A  |
+|  Disposition d'un budget nécessaire à la conception du projet  |  Assuré de la mise en place selon les délais imposés |
 
  <!-- ## Référence * [Devis technique](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/50_devis_technique/) -->
