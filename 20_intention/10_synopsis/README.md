@@ -23,7 +23,7 @@ Pour que le projet fonctionne, il nous faut au minimum:
 En veille: Il n’y aura aucune projection sur les parois de la serre. Seule une projection de lumière dirigée vers la sphère sera mise en place, afin de capter l’attention des visiteurs et de les inviter à se focaliser sur cet élément central.
 
 ### Son
-En veille: Une musique d’ambiance en boucle. Un son paisible et simple occupera la pièce même lorsque les visiteurs rentreront dans la salle. De plus, on tient à modifier le son d'ambiance lorsque l'utilisateur intéragissent avec l'installation étape par étape.
+En veille: Une musique d’ambiance en boucle diffusera une atmosphère calme et sombre. Cette immersion transporte les visiteurs dans un univers où la nature semble éteinte, créant une sensation de vide dès leur entrée dans la salle.
 
 ### Interactivité
 Lorsque les visiteurs roulent la boule, des animations apparaissent le long des parois, suivant la direction du mouvement, révélant l’impact de leurs actions sur l’environnement qui les entoure. Une fois que les animations atteignent leur apogée, la projection de lumière dirigée vers la sphère s’éteint, laissant place à des animations interactives sur les parois.  Les visiteurs pourront faire pousser des fleurs sur les plantes en touchant les parois du bout des doigts.
