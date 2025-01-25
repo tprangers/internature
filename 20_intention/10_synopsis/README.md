@@ -26,5 +26,8 @@ En veille: Il n’y aura aucune projection sur les parois de la serre. Seule une
 En veille: Une musique d’ambiance en boucle. Un son paisible et simple occupera la pièce même lorsque les visiteurs rentreront dans la salle. De plus, on tient à modifier le son d'ambiance lorsque l'utilisateur intéragissent avec l'installation étape par étape.
 
 ### Interactivité
-Lorsque le(s) visiteur(s) roulent la boule, les animations en veille se modifient au rythme et en direction du mouvement afin de rendre évident le contrôle de l’utilisateur sur l’environnement qui l’entoure. Petit à petit, les animations différentes finissent par s’agrandir et se fusionner avec l’espace vide qui les entourait afin de submerger les parois avec les animations.
+Lorsque les visiteurs roulent la boule, des animations apparaissent le long des parois, suivant la direction du mouvement, révélant l’impact de leurs actions sur l’environnement qui les entoure. Une fois que les animations atteignent leur apogée, la projection de lumière dirigée vers la sphère s’éteint, laissant place à des animations interactives sur les parois.  Les visiteurs pourront faire pousser des fleurs sur les plantes en touchant les parois du bout des doigts.
+
+Si l’interaction n’est pas détectée, les visiteurs peuvent observer une régression des animations qu’ils avaient initialement activées en roulant la sphère. 
+
 
