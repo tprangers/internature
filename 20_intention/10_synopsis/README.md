@@ -29,7 +29,6 @@ En veille: Il n’y aura aucune projection sur les parois de la serre. Seule une
 
 ### Son
 En veille: Une musique d’ambiance en boucle diffusera une atmosphère calme et sombre. Cette immersion transporte les visiteurs dans un univers où la nature semble éteinte, créant une sensation de vide dès leur entrée dans la salle.
-(a reecrire intention)
 
 ### Interactivité
 Lorsque les visiteurs roulent la boule, des animations apparaissent le long des parois, suivant la direction du mouvement, révélant l’impact de leurs actions sur l’environnement qui les entoure. Une fois que les animations atteignent leur apogée, la projection de lumière dirigée vers la sphère s’éteint, laissant place à des animations interactives sur les parois.  Les visiteurs pourront faire pousser des fleurs sur les plantes en touchant les parois du bout des doigts.
