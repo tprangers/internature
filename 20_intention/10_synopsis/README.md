@@ -12,7 +12,7 @@ Un tunnel interactif où l'humain, en manipulant une sphère, contrôle directem
 (reecrire intention)
  
 ## Intention de départ
-Une immersion interactive dans une serre portable comportant des projections et du mapping vidéo sur les parois, accompagnée de musique d'ambiance et de sons immersifs. Les participants sont invités à s'approcher d'une boule lumineuse. En tournant la sphère, il y aura un déclenchement d'un visuel unique. 
+Une intéraction immersive dans une serre portable comportant des projections et du mapping vidéo sur les parois, accompagnée de musique d'ambiance et de sons immersifs. Les participants sont invités à s'approcher d'une boule lumineuse. En tournant la sphère, il y aura un déclenchement d'un visuel unique. 
 
 Pour que le projet fonctionne, il nous faut au minimum: 
 - Un environnement renfermé (ex: tempo ou serre portative) 
