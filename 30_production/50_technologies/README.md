@@ -60,3 +60,10 @@ Utilisés pour développer des expériences interactives où les actions des uti
 #### Systèmes de contrôle d'éclairage
 - QLC+
 
+## Références
+
+### Références sonore
+
+* [SURGE XT THE MOVIE : Amazing FREE Synthesizer - Full In-Depth Tutorial](https://www.youtube.com/watch?v=kTvBgb4HGx0)
+* [Sound Codex - Source de cours intensifs sur Youtube pour Plugdata et Surge XT](https://www.youtube.com/@SoundCodex)
+* [Playlist de vidéos informatives sur Plugdata - cours intensifs](https://www.youtube.com/watch?v=EoOEZYn4xdA&list=PLZYD2Edyty0BfJ1RAH2heamjJGVj0TEau)
