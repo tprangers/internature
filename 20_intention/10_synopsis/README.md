@@ -8,8 +8,7 @@ Un tunnel interactif où l'humain, en manipulant une sphère, contrôle directem
 <!--
 **Internature** est une expérience immersive qui intègre le mapping vidéo intéractif sur les parois, accompagné d'une musique ambiante et de sons immersifs. Au cœur de cet environnement, les visiteurs sont invités à interagir avec une sphère lumineuse, déclenchant des animations sur les parois. Par la suite, ils peuvent toucher ces parois pour interagir directement avec les animations qui s'y trouvent. -->
 
-**Internature** est une expérience immersive où chaque mouvement de la sphère lumineuse déclenche la croissance et la transformation des plantes synthétiques. Les participants ressentent la puissance de leurs actions et prennent conscience de leur responsabilité, réalisant l’impact direct de leurs gestes sur cet écosystème artificiel, fragile et en constante évolution. Cette interaction unique suscite un mélange de fascination, de pouvoir et de réflexion sur l’influence humaine, tout en établissant un lien émotionnel profond avec une nature synthétique sensible à leurs interactions.
-(reecrire intention)
+**Internature** est une expérience immersive où chaque mouvement d'une sphère lumineuse, semblable au mythe de Sisyphe qui pousse une pierre au sommet d’une montagne sans jamais atteindre la fin, provoque la croissance et la transformation des plantes synthétiques. Cependant, ces changements sont éphémères, rappelant que nos actions, bien que puissantes, n'ont pas de permanence. L’interaction invite à réfléchir sur la nature de nos gestes et leur impact dans un monde en constante évolution.
  
 ## Intention de départ
 Une intéraction immersive dans une serre portable comportant des projections et du mapping vidéo sur les parois, accompagnée de musique d'ambiance et de sons immersifs. Les participants sont invités à s'approcher d'une boule lumineuse. En tournant la sphère, il y aura un déclenchement d'un visuel unique. 
