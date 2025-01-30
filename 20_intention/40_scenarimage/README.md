@@ -1,6 +1,6 @@
 # Scénarimage
 
 
-![Scénarimage partie 1](assets/scenarimage1.jpg)
+![Scénarimage partie 1](scenarimage1.jpg)
 
-![Scénarimage partie 2](assets/scenarimage2.jpg)
+![Scénarimage partie 2](scenarimage2.jpg)
