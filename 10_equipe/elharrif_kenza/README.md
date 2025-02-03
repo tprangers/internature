@@ -1,6 +1,5 @@
 # Kenza El Harrif
-* test
- ![Membre_w]( kenza_equipe.png)
+ ![Membre_w](https://fakeimg.pl/400x400?text=z)
 
  ## Réalisations
 
