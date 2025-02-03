@@ -4,7 +4,7 @@
 
 * [![Khaly Tia Sing]( https://fakeimg.pl/400x400?text=V)](membre_v/)
 * [![Isaac Fafard]( https://fakeimg.pl/400x400?text=W)](membre_w/)
-* [![Delphine Grenier]( https://fakeimg.pl/400x400?text=X)](membre_x/)
+* [![Delphine Grenier](grenier_delphine/delphine_equipe_400x400.jpg)](grenier_delphine/)
 * [![Sitmonternna Yi]( https://fakeimg.pl/400x400?text=Y)](membre_y/)
 * [![Kenza El Harrif](elharrif_kenza/kenza_equipe_400x400.png)](elharrif_kenza/)
 
