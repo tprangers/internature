@@ -6,5 +6,5 @@
 * [![Isaac Fafard]( https://fakeimg.pl/400x400?text=W)](membre_w/)
 * [![Delphine Grenier]( https://fakeimg.pl/400x400?text=X)](membre_x/)
 * [![Sitmonternna Yi]( https://fakeimg.pl/400x400?text=Y)](membre_y/)
-* [![Kenza El Harrif](elharrif_kenza/kenza_equipe_400x400.png)](membre_Z/)
+* [![Kenza El Harrif](elharrif_kenza/kenza_equipe_400x400.png)](10_equipe/elharrif_kenza/)
 
