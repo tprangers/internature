@@ -1,6 +1,6 @@
 # Plantation
 ### Plantation de la serre - studio
-![Plantation_serre_studio](plantation_serre.jpg)
+![Plantation_serre_studio](plantation_studio.jpg)
 ### Plantation de la serre - projet(vue 3D)
 ![Plantation serre](plantation_serre_3d.jpg)
 ### Plantation de la serre - projet(vue de haut)
