@@ -15,7 +15,10 @@
 | Serre portative         |  1       |  160            |
 | Support pour serre      |  10      |  0              |
 | American DJ (spot)      |  1       |  0              |
-|  Total       | Prix estimé totale ($)  |  641        |
+| RasberryPi              |  1       |  0              |
+| Souris Ordinateur       |  1       |  0              |
+| Plantes décoratives     |  ~       |  15             |
+|  Total       | Prix estimé totale ($)  |  626        |
 
 
 ## Logiciel
