@@ -2,7 +2,7 @@
 
 <!-- Ici mettre tous les documents et références associés à l'établissement de l'ambiance du projet   -->
 ### Planche d'ambiance visuelle
-![moodboard](internature_moodboard.jpg)
+![moodboard](Moodboard_v2.1.jpg)
 
 #### Références visuelles
 - [Hand attracted particles - touchdesigner tutorial](https://www.youtube.com/watch?v=0agyZ8gVZ1E)
