@@ -67,3 +67,9 @@ Utilisés pour développer des expériences interactives où les actions des uti
 * [SURGE XT THE MOVIE : Amazing FREE Synthesizer - Full In-Depth Tutorial](https://www.youtube.com/watch?v=kTvBgb4HGx0)
 * [Sound Codex - Source de cours intensifs sur Youtube pour Plugdata et Surge XT](https://www.youtube.com/@SoundCodex)
 * [Playlist de vidéos informatives sur Plugdata - cours intensifs](https://www.youtube.com/watch?v=EoOEZYn4xdA&list=PLZYD2Edyty0BfJ1RAH2heamjJGVj0TEau)
+
+### Références visuels
+* [Custom Interactive 3d Particle System TOUCHDESIGNER TUTORIAL](https://www.youtube.com/watch?v=NuIShUTg3nI)
+* [Hand attracted particles - touchdesigner tutorial](https://www.youtube.com/watch?v=0agyZ8gVZ1E)
+* [Mini Project: Touch Reactive Particle System Using LiDAR and Blob Tracking](https://www.youtube.com/watch?v=miK39CxCHJc)
+* [Particle Paths – TouchDesigner Tutorial 64](https://www.youtube.com/watch?v=JeRPGeYBwXo)
