@@ -1,6 +1,6 @@
 # Sitmonternna Yi
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=y)
+ ![Membre_w](https://github.com/tprangers/internature/blob/main/10_equipe/yi_sitmonternna/sit_ver_mauve.jpg)
 
  ## Réalisations
 
