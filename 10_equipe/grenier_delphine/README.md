@@ -10,3 +10,4 @@
 
 * ![S2 - Montage de la vidéo d'intention](grenier_delphine_s2.jpg)
 
+* ![S3 - Intégration des visuels et programmation de leur interactivité en fonction des données de la sphère](grenier_delphine_s3.jpg)
