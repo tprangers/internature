@@ -6,7 +6,7 @@
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 * ![S1 Développement du concept](Mapping-serre.png)
-* ![S2 Tests Kinect](https://fakeimg.pl/400x400?text=concept)
+* ![S2 Tests Kinect](kinect-test.png)
 
 * ![S2 Installation de la serre](Serre-construction.png)
 * ![S2 Installation des projecteurs](Projector-Placement.png)
