@@ -5,7 +5,6 @@
  ## Réalisations
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=concept)
-* ![S2 Tests Kinect](https://fakeimg.pl/400x400?text=concept)
 
 * ![S2 Installation de la serre](https://fakeimg.pl/400x400?text=concept)
 * ![S2 Installation des projecteurs](https://fakeimg.pl/400x400?text=concept)
