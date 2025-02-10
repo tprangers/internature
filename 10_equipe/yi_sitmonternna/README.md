@@ -5,11 +5,12 @@
  ## Réalisations
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
+ 
+* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=concept)
 
-* ![S1 - Développement du concept](Installation_projo_sit.jfif)
+* ![S2 Installation de la serre](https://fakeimg.pl/400x400?text=concept)
+* ![S2 Installation des projecteurs](https://fakeimg.pl/400x400?text=concept)
 
-* ![S1 - Installation de la serre](inst_serre.jfif)
-
-* ![S2 - Mapping sur la toile](map_sol.jfif)
-
+* ![S3 Installation des haut-parleurs](https://fakeimg.pl/400x400?text=concept)
+* ![S3 Création des sons](https://fakeimg.pl/400x400?text=concept)
 
