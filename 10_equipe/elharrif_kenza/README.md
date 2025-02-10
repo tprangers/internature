@@ -12,4 +12,6 @@
 
 * ![S2 Apprentissage de l'utilisation de Surge XT.](apprentissage_surgeXT.png)
 
+* ![S3 Travail des visuels sur touchdesigner et interactivité de base.](s3_kenza_travail_touch.png)
+
 
