@@ -1,5 +1,5 @@
 # Kenza El Harrif
- ![Kenza El Harrif](kenza_equipe_400x400.png)
+ ![Kenza El Harrif](photo_kenza.png)
 
 
  <!--  ![Membre_w](https://fakeimg.pl/400x400?text=z) https://fakeimg.pl/400x400?text=Concept-->
