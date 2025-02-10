@@ -6,5 +6,7 @@
 ### Plantation de la serre - projet(vue de haut)
 ![Plantation serre haut](plantation_serre_haut.jpg)
 ### Plantation de la serre - sphere
-![Plantation sphere](plantation_sphere.png)
+![Plantation sphere](plantation_sphere.jpg)
+### Plantation de la serre - connecteurs
+![Plantation sphere](plantation_connecteur.jpg)
 
