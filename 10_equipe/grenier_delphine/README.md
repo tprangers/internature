@@ -1,6 +1,6 @@
 # Delphine Grenier
 
- ![Delphine Grenier](delphine_equipe_400x400.jpg)
+ ![Delphine Grenier](delphine-img-profil.jpg)
 
  ## Réalisations
 
