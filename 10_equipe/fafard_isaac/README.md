@@ -15,3 +15,6 @@
 * ![S3 Création d'un visuel](fleur.png)
 * ![S3 Installation des haut-parleurs](projo2.png)
 
+
+* ![S4 Programmation d'interactivité](programmation-interactivite.png)
+* ![S4 Arduino programmation](arduino-trace.png)
