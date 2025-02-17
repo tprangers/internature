@@ -4,7 +4,7 @@
 
 ## Vidéo d'intention
 <a href="https://youtu.be/pLxNPbXbVRE?si=0ZiVeGZ_q0b2-osc">
-    <img src="thumbnail_video_intention.png" width="400" style="height: 100%;" alt="YouTube Thumbnail">
+    <img src="thumbnail_video_intention.png" width="400" style="height: 100% text-align:"left;">
 </a>
 
 ## Bande-annonce
