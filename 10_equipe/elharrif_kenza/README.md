@@ -14,4 +14,6 @@
 
 * ![S3 Travail des visuels sur touchdesigner et interactivité de base.](s3_kenza_travail_touch.png)
 
+* ![S4 Enregistrements et créations des bruitages.](enregistrement_sons.png)
+
 
