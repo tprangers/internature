@@ -10,7 +10,7 @@
 
 * ![S2 Installation de la serre](installation_serre.jpg)
 * ![S2 Installation des projecteurs](projecteur_installation.jpg)
-* 
+  
 * ![S3 Mapping des parois](map_sol.jpg)
 * ![S3 Installation des haut-parleurs](haut-parleurs.jpg)
 * ![S3 Création des sons](creation_son.jpg)
