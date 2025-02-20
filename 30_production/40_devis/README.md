@@ -4,21 +4,21 @@
 | Item                    | Stock    | Prix estimé ($) |
 | :----------------------:| :------: |  :-----------:  |
 | Ordinateur Epson        |  1       |  0              |
-| Projecteur              |  3       |  0              |
+| Projecteur              |  2       |  0              |
 | Haut-parleur Genelec    |  2       |  0              |
-| Balle de bowling        |  1       |  20             |
+| Balle de bowling        |  1       |  5              |
 | Support pour la boule   |  1       |  50             |
-| Berring à bille         |  4       |  13             |
-| Module LIDAR            |  2       |  368            |
-| Kinect XBOX             |  1       |  0              |
+| Berring à bille         |  4       |  0              |
+| Module LIDAR            |  2       |  368 (Compte pas)|
 | Bandes lumineuses LED   |  2       |  0              |
 | Serre portative         |  1       |  160            |
 | Support pour serre      |  10      |  0              |
-| American DJ (spot)      |  1       |  0              |
 | RasberryPi              |  1       |  0              |
 | Souris Ordinateur       |  1       |  0              |
 | Plantes décoratives     |  ~       |  15             |
-|  Total       | Prix estimé totale ($)  |  626        |
+| Tige fileté Acier       |  3       |  17             |
+| Nouille de piscine & Fil de pèche      |  2 + 1       |  22 |
+|  Total       | Prix estimé totale ($)  |  269        |
 
 
 ## Logiciel
@@ -26,10 +26,13 @@
 |  :--------------------:  |  :---------------------:  |  :-------------------------------: |
 |  Arduino                 |  0.00$                    |  oui  |
 |  Reaper                  |  0.00$                    |  oui  |
-|  VCV Rack                |  0.00$                    |  oui  |
 |  Touch Designer          |  0.00$                    |  oui  |
 |  PlugData                |  0.00$                    |  oui  |
 |  Surge XT                |  0.00$                    |  Non  |
+|  Godot                   |  0.00$                    |  oui  |
+|  Figma                   |  0.00$                    |  Non  |
+|  FreeCad                 |  0.00$                    |  Non  |
+|  OrcaSlicer              |  0.00$                    |  oui  |
 
 
 
