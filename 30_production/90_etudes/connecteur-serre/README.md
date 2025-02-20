@@ -10,9 +10,10 @@ Problématique: Les boîtes de pommes offre un visuel hors de l'expérance artis
 ![boite-pomme](boite-pomme.png)
 ###  Utilisation de connecteur en 3D avec un tuyau d'aluminium similaire à celui de la serre
 Problématique: La structure à perdu en solidité et les connecteurs ont tendance à se briser peut importe le remplissage de plastique des impressions.
-![boite-pomme](adapt-tuyau_brise 1.png)
+![Adapt-tuyau](adapt-tuyau_brise.png)
 ###  Utilisation d'un tuteur pour prévenir les tuyau de plastique de se casser en deux par un accrochage accidentel de la serre
 Problématique: Le tuteur à fait ses preuves et fonctionne! Mais il ne plait pas à nos supérieures qui désirent un stade de solidité supplémentaire.
+![tuteur-tuyau](tuteur-tuyau.png)
 ###  Utilisation d'une barre d'acier intégrer dans le connecteur imprimé en 3D pour prévenir la séparation en cas de bris de la pièce
 Sollution: Sa semble être l'alternative la plus adéquate pour assuré la meilleur solidité au projet possible.
 
