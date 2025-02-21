@@ -29,3 +29,11 @@ Problématique: Le tuteur à fait ses preuves et fonctionne! Mais il ne plait pa
 ###  Utilisation d'une barre d'acier intégrer dans le connecteur imprimé en 3D pour prévenir la séparation en cas de bris de la pièce
 Sollution: Sa semble être l'alternative la plus adéquate pour assuré la meilleur solidité au projet possible.
 
+Problématique engendré: A fragilisé le connecteur en plastique au lieu de le solidifier
+
+![Tige de fer](IMG_1121.jpeg)
+![Tige de fer](IMG_1122.jpeg)
+![Tige de fer](IMG_1123.jpeg)
+![Tige de fer](IMG_1124.jpeg)
+
+
