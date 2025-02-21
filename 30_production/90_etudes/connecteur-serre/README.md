@@ -31,9 +31,7 @@ Sollution: Sa semble être l'alternative la plus adéquate pour assuré la meill
 
 Problématique engendré: A fragilisé le connecteur en plastique au lieu de le solidifier
 
-![Tige de fer](IMG_1121.jpeg)
-![Tige de fer](IMG_1122.jpeg)
-![Tige de fer](IMG_1123.jpeg)
-![Tige de fer](IMG_1124.jpeg)
-
-
+![Tige de fer](tige_01.png)
+![Tige de fer](tige_02.png)
+![Tige de fer](tige_03.png)
+![Tige de fer](tige_04.png)
