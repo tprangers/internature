@@ -23,7 +23,11 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 
 ![tuteur-tuyau](tuteur-tuyau.png)
 
-Problématique: Le tuteur à fait ses preuves et fonctionne! Mais il ne plait pas à nos supérieures qui désirent un stade de solidité supplémentaire.
+**Problématique**: Le tuteur à fait ses preuves et fonctionne! Mais l'angle droit au bas donne un risque de brisure ou de fragilité.
+
+**Ajustement**: Nous avons fait une courbe à la place d'un angle droit pour moin de chances de brisure.
+
+![Tuteur](patoune.png)
 
 
 ###  Utilisation d'une barre d'acier intégrer dans le connecteur imprimé en 3D pour prévenir la séparation en cas de bris de la pièce
