@@ -9,14 +9,14 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 
 ![boite-pomme](boite-pomme.png)
 
-Problématique: Les boîtes de pommes offre un visuel hors de l'expérance artistique du projet.
+**Problématique**: Les boîtes de pommes offre un visuel hors de l'expérance artistique du projet.
 
 
 ###  Utilisation de connecteur en 3D avec un tuyau d'aluminium similaire à celui de la serre
 
 ![Adapt-tuyau](adapt-tuyau_brise.png)
 
-Problématique: La structure à perdu en solidité et les connecteurs ont tendance à se briser peut importe le remplissage de plastique des impressions.
+**Problématique**: La structure à perdu en solidité et les connecteurs ont tendance à se briser peut importe le remplissage de plastique des impressions.
 
 
 ###  Utilisation d'un tuteur pour prévenir les tuyau de plastique de se casser en deux par un accrochage accidentel de la serre
@@ -27,9 +27,9 @@ Problématique: Le tuteur à fait ses preuves et fonctionne! Mais il ne plait pa
 
 
 ###  Utilisation d'une barre d'acier intégrer dans le connecteur imprimé en 3D pour prévenir la séparation en cas de bris de la pièce
-Sollution: Sa semble être l'alternative la plus adéquate pour assuré la meilleur solidité au projet possible.
+Solution: Sa semble être l'alternative la plus adéquate pour assuré la meilleur solidité au projet possible.
 
-Problématique engendré: A fragilisé le connecteur en plastique au lieu de le solidifier
+**Problématique**: A fragilisé le connecteur en plastique au lieu de le solidifier
 
 ![Tige de fer](tige_01.png)
 ![Tige de fer](tige_02.png)
