@@ -22,7 +22,7 @@
 | Boulon           | 1 | 3.30 | 
 | Scie à métaux    | 1 | 21.49 | 
 | Forêt bois       | 1 | 10.99 |
-|  Total       | Prix estimé totale ($)  |  232        |
+|  Total       | Prix estimé totale ($)  |  305.8       |
 
 
 ## Logiciel
