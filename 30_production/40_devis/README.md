@@ -18,7 +18,11 @@
 | Plantes décoratives     |  ~       |  15             |
 | Tige fileté Acier       |  3       |  17             |
 | Nouille de piscine & Fil de pèche      |  2 + 1       |  22 |
-|  Total       | Prix estimé totale ($)  |  269        |
+| Écrou            | 1.02 |
+| Boulon           | 3.30 | 
+| Scie à métaux    | 21.49 | 
+| Forêt bois       | 10.99 |
+|  Total       | Prix estimé totale ($)  |  232        |
 
 
 ## Logiciel
