@@ -17,11 +17,11 @@
 | Souris Ordinateur       |  1       |  0              |
 | Plantes décoratives     |  ~       |  15             |
 | Tige fileté Acier       |  3       |  17             |
-| Nouille de piscine & Fil de pèche      |  2 + 1       |  22 |
-| Écrou            | 1.02 |
-| Boulon           | 3.30 | 
-| Scie à métaux    | 21.49 | 
-| Forêt bois       | 10.99 |
+| Nouille de piscine & Fil de pèche      |  2 + 1       | 1 |  22 |
+| Écrou            | 1 | 1.02 |
+| Boulon           | 1 | 3.30 | 
+| Scie à métaux    | 1 | 21.49 | 
+| Forêt bois       | 1 | 10.99 |
 |  Total       | Prix estimé totale ($)  |  232        |
 
 
