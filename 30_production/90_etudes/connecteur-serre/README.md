@@ -47,3 +47,7 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 
 ### Association de toutes les solutions trouvées pour intégrer les connecteurs
 **Solution**: Créer un *socket* pour que le tuyau se stabilise autant à l'intérieure que à l'extérieur. Donc, on a mélangé plusieurs des techniques utilisées jusqu'à présent. Il y a un connecteur extérieur et intérieur auquel on ne va pas visser à la serre et auquel on y permet d'insérer une tige d'acier à la longueur complète. La gravité de la serre permet au tuyau de s'insérer dans le *socket*. Ainsi, le plastique ne se brise pas, et l'extérieur empêche la pate de glisser. En rajoutant le tuteur, on rajoute une stabilité complète. Pour l'instant, on garde l'oeil afin de s'assurer que tout reste en place et reste stable. À suivre.
+
+![Nouveau connecteur](connecteur_test_01.png)
+![Nouveau connecteur](connecteur_test_02.png)
+![Nouveau connecteur](connecteur_test_03.png)
