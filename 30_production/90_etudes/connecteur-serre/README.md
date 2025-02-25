@@ -1,7 +1,7 @@
 #  Étude de problématique par rapport au connecteur de la serre utilisé pour agrandir la serre verticalement
 
 ## Explication de la problématique
-Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la serre soit plus grande que ce que le produit de base offre.
+Nous utilisons une serre qui rend les bords petits. Nous avons besoin que la serre soit plus grande que ce que le produit de base offre.
 
 
 ## Études des solutions
@@ -10,6 +10,14 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 ![boite-pomme](boite-pomme.png)
 
 **Problématique**: Les boîtes de pommes offre un visuel hors de l'expérance artistique du projet.
+
+---
+
+### Coupe des tuyaux et ajout de trous pour les vis
+
+Nous avons coupés les tuyaux non utilisés pour la serre afin de créer des extensions. Nous avons rajoutés des trous pour les visser aux connecteurs et à la serre.
+
+![Coupe des tuyaux](coupe_et_trou_tuyau.png)
 
 ---
 
