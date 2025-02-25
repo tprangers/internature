@@ -11,6 +11,7 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 
 **Problématique**: Les boîtes de pommes offre un visuel hors de l'expérance artistique du projet.
 
+---
 
 ###  Utilisation de connecteur en 3D avec un tuyau d'aluminium similaire à celui de la serre
 
@@ -18,6 +19,7 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 
 **Problématique**: La structure à perdu en solidité et les connecteurs ont tendance à se briser peut importe le remplissage de plastique des impressions.
 
+---
 
 ###  Utilisation d'un tuteur pour prévenir les tuyau de plastique de se casser en deux par un accrochage accidentel de la serre
 
@@ -29,9 +31,10 @@ Nous utilisons une serre qui rend les bords petites. Nous avons besoin que la se
 
 ![Tuteur](patoune.png)
 
+---
 
 ###  Utilisation d'une barre d'acier intégrer dans le connecteur imprimé en 3D pour prévenir la séparation en cas de bris de la pièce
-Solution: Sa semble être l'alternative la plus adéquate pour assuré la meilleur solidité au projet possible.
+**Solution**: Sa semble être l'alternative la plus adéquate pour assuré la meilleur solidité au projet possible.
 
 **Problématique**: A fragilisé le connecteur en plastique au lieu de le solidifier
 
@@ -39,3 +42,8 @@ Solution: Sa semble être l'alternative la plus adéquate pour assuré la meille
 ![Tige de fer](tige_02.png)
 ![Tige de fer](tige_03.png)
 ![Tige de fer](tige_04.png)
+
+---
+
+### Association de toutes les solutions trouvées pour intégrer les connecteurs
+**Solution**: Créer un *socket* pour que le tuyau se stabilise autant à l'intérieure que à l'extérieur. Donc, on a mélangé plusieurs des techniques utilisées jusqu'à présent. Il y a un connecteur extérieur et intérieur auquel on ne va pas visser à la serre et auquel on y permet d'insérer une tige d'acier à la longueur complète. La gravité de la serre permet au tuyau de s'insérer dans le *socket*. Ainsi, le plastique ne se brise pas, et l'extérieur empêche la pate de glisser. En rajoutant le tuteur, on rajoute une stabilité complète. Pour l'instant, on garde l'oeil afin de s'assurer que tout reste en place et reste stable. À suivre.
