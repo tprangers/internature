@@ -16,4 +16,10 @@
 
 * ![S4 Enregistrements et créations des bruitages.](enregistrement_sons.png)
 
+* ![S5 créations sonores](s4_ creation_sonore.png)
+
+* ![S5 création code plugdata](s4_code_plugdata.png)
+
+* ![S5 test des connecteurs de tuyaux](s4_tests_connecteurs.png)
+
 
