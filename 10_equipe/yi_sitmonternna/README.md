@@ -15,9 +15,9 @@
 * ![S3 Installation des haut-parleurs](haut-parleurs.jpg)
 * ![S3 Création des sons](creation_son.jpg)
 
-* ![S4 ]()
+* ![S4 trou-tuyaux](tuyaux_trou.png)
+* ![S4 re-record son](sound_record.png)
 
+* ![S5 Mapping serre](mapping_serre.png)
 
-* ![S5 Mapping serre]()
-
-* ![S5 Rattachement serre]()
+* ![S6 Rattachement serre](attachement_serre.png)
