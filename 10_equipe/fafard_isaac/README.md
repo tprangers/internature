@@ -18,3 +18,6 @@
 
 * ![S4 Programmation d'interactivité](programmation-interactivite.png)
 * ![S4 Arduino programmation](arduino-trace.png)
+
+* ![S5 Etude des cas des pattes du tunnel](arduino-trace.png)
+* ![S5 Impression 3D](arduino-trace.png)
