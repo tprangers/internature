@@ -7,7 +7,7 @@
 | Projecteur              |  2       |  0              |
 | Haut-parleur Genelec    |  2       |  0              |
 | Balle de bowling        |  1       |  5              |
-| Support pour la boule   |  1       |  50             |
+| Support pour la boule   |  1       |  20             |
 | Berring à bille         |  4       |  0              |
 | Module LIDAR            |  2       |  368 (Compte pas)|
 | Bandes lumineuses LED   |  2       |  0              |
@@ -23,7 +23,7 @@
 | Boulon           | 1 | 3.30 | 
 | Scie à métaux    | 1 | 21.49 | 
 | Forêt bois       | 1 | 10.99 |
-|  Total       | Prix estimé totale ($)  |  305.8       |
+|  Total       | Prix estimé totale ($)  |  275.8       |
 
 
 ## Logiciel
