@@ -15,5 +15,8 @@
 * ![S5 Créations de bruitages et base sonore.](s4_creation_sonore.png)
 * ![S5 Création du code plugdata](s4_code_plugdata.png)
 * ![S5 test des connecteurs de tuyaux](s4_tests_connecteurs.png)
-
-
+* ![S6 Finalisation de la maquette pour la présentation aux premières années](S6_finalisation_maquette.png)
+* ![S6 Présentation de la maquette aux premières années](S6_presentation_premier_annee.png)
+* ![S6 Recherche et tests de nouveaux visuels pour les vignes, n'est pas la version finale](S6_travail_nouveaux_visuels_abandonne.png)
+* ![S7 Travail des sons de sphère, de fleurs et de particules sur reaper](S7_travail_sons.png)
+* ![S7 Travail des codes intéractifs des sphères et des vignes interactives sur plugdata](S7_ajustement_codes_vignes.png)
