@@ -22,5 +22,5 @@
 * ![S5 Etude des cas des pattes du tunnel](EtudeDeCas.png)
 * ![S5 Impression 3D](modelisationS5.png)
 
-* ![S6 Amélioration du piédestal](modelisationS5.png)
-* ![S6 Programmation Reaper du son en fadeIn&fadeOut](modelisationS5.png)
+* ![S6 Amélioration du piédestal](piedestal-switch.png)
+* ![S6 Programmation Reaper du son en fadeIn&fadeOut](Programmation-son.png)
