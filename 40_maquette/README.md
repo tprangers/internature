@@ -4,10 +4,10 @@ Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résult
 
 ## Gallerie d'images
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
+* ![Maquette Tunnel - Boites de pommes](/maquette-01.jpg)
+* ![Maquette Tunnel - Mapping initial](/maquette-02.jpg)
+* ![Maquette Tunnel - Projections Climax](/maquette-03.jpg)
+* ![Maquette Tunnel - Vignes initiales](/maquette-04.jpg)
 
 ## Vidéo du la maquette en action
 
