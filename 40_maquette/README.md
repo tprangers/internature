@@ -24,6 +24,6 @@ La serre était suffisamment haute pour permettre de se déplacer sans problème
 
 ## Références 
 
-* [Étude de faisabilité](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/10_etude/)
-* [Maquette](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/30_maquette/)
+* [Étude de cas de l'agrandissement de la serre en hauteur](https://tprangers.github.io/internature/#/30_production/90_etudes/connecteur-serre/)
+
 
