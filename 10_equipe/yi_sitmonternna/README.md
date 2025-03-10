@@ -21,3 +21,5 @@
 * ![S5 Mapping serre](mapping_serre.png)
 
 * ![S6 Rattachement serre](attachement_serre.png)
+* ![S6 Support](support.png)
+* ![S6 Peinture boulle](boule.png)
