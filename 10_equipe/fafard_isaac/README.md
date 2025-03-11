@@ -1,6 +1,6 @@
 # Isaac Fafard
 
- ![Membre_w](pfp.png)
+ ![Isaac Fafard](pfp.png)
 
  ## Réalisations
 
