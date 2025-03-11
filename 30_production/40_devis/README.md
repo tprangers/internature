@@ -13,7 +13,7 @@
 | Bandes lumineuses LED   |  2       |  0              |
 | Serre portative         |  1       |  160            |
 | Bois support de serre   |  1       |  19 ( 14.99+ 3.99) |
-| RasberryPi              |  1       |  0              |
+| RasberryPi              |  3       |  0              |
 | Souris Ordinateur       |  1       |  0              |
 | Tige fileté Acier       |  3       |  17             |
 | Nouille de piscine      |  2       |  7.80           |
