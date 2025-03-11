@@ -1,5 +1,5 @@
 <a href="https://youtu.be/pLxNPbXbVRE?si=0ZiVeGZ_q0b2-osc">
-    <img src="thumbnail_youtube.jpg" width="1000" style="height: 100% text-align:"center;">
+    <img src="thumbnail_youtube.jpg" width="1000" style="height: 100%">
 </a>
 <a style="text-align:"center;">Vidéo d'intention</a>
 
