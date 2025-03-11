@@ -31,6 +31,7 @@
         :root {
             --theme-hue:2;
             --theme-link: rgb(222, 233, 234); 
+            --theme-highlight: #00bcf0;
         }
 
         body {
@@ -60,6 +61,50 @@
         .sidebar {
             background-color: #0a1733; 
         }
+
+        .markdown-section h4{
+            color: var(--theme-link);
+            font-weight: 100;
+            text-align: center; 
+        }
+
+        #main {
+            color: var(--theme-link);
+        }
+
+        .anchor span {
+            color: var(--theme-link);
+            text-transform: uppercase;
+            font-style: normal;
+        }
+
+        svg {
+            fill: #00bcf0; 
+        }
+
+        .sidebar ul li a {
+            color: var(--theme-link);
+            font-size: medium;
+        }
+
+        .sidebar-toggle {
+            background-color: #182643;
+            width: 300px; 
+        }
+
+        figcaption {
+            margin-top: 10px;
+        }
+
+        .search {
+            border-bottom: 1px solid #0a1733 !important;
+        }
+
+        @media screen and (max-width: 768px) {
+        .sidebar-toggle {
+            background-color: transparent;
+        }
+    }
 
     </style>
 
