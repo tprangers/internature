@@ -9,7 +9,7 @@
 
 * ![S2 Installation de la serre](construction_serre.jpg)
 * ![S2 Installation des projecteurs](projection_install.jpg)
-* ![S2 Mapping des projecteurs](mapping.jpg)
+* ![S2 Mapping des projecteurs](mapping.png)
 
 * ![S3 Création d'un visuel](khaly_visuelle.jpg)
 * ![S3 Installation des haut-parleurs](khaly_speakers.jpg)
