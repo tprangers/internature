@@ -1,6 +1,6 @@
 # Internature 
 
-**Internature** est un tunnel immersif qui intègre le mapping vidéo intéractif sur les parois, accompagné d'une musique ambiante et des bruitages. Au cœur de cet environnement, les visiteurs sont invités à interagir avec une boule lumineuse qui déclenche un spectacle de lumière unifiant toutes les projections. Cette expérience créer une opportunité aux participants (write intention)
+**Internature** est un tunnel immersif qui intègre le mapping vidéo interactif sur ses parois accompagné d'une musique ambiante et des bruitages afin de vraiment submerger l'utilisateur dans un environnement de nature synthétique. Au cœur de cet environnement, l’utilisateur est invité à interagir avec une boule pour embellir l'environnement, déclenchant finalement un spectacle de lumière dynamique intéractif au toucher et l’amenant à réfléchir sur l’impact de l’être humain sur celle-ci.
 
 ## Vidéo d'intention
 <a href="https://youtu.be/pLxNPbXbVRE?si=0ZiVeGZ_q0b2-osc">
