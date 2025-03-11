@@ -16,10 +16,10 @@
 
 * ![S4 Création des tuyaux connecteurs](connecteurs_piercing.jpg)
 * ![S4 Enregistrements sonores](enregistrements.jpg)
-* ![S4 Création de sons dans Reaper](sons.jpg)
+* ![S4 Création de sons dans Reaper](sons.png)
 
-* ![S5 Mapping des toiles](mapping.jpg)
+* ![S5 Mapping des toiles](mapping.png)
 * ![S5 Création d'un nouveau modèle de connecteurs]()
 
-* ![S6 Repasser sur les toiles](vapeur.jpg)
-* ![S6 Monter le nouveau support pour la sphère](construction_sphere.jpg)
+* ![S6 Repasser sur les toiles](vapeur.png)
+* ![S6 Monter le nouveau support pour la sphère](construction_sphere.png)
