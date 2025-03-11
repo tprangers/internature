@@ -18,7 +18,7 @@ La serre était suffisamment haute pour permettre de se déplacer sans problème
 * ![Maquette Tunnel - Mapping initial](maquette-02.jpg)
 * ![Maquette Tunnel - Projections Climax](maquette-03.jpg)
 * ![Maquette Tunnel - Vignes initiales](maquette-04.jpg)
-* ![Maquette Tunnel - Test des toiles](maquette-05.jpg)
+* ![Maquette Tunnel - Test des toiles](maquette-06.jpg)
 
 ## Vidéo du la maquette en action
 
