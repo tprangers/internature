@@ -9,21 +9,26 @@
 | Balle de bowling        |  1       |  5              |
 | Support pour la boule   |  1       |  20             |
 | Berring à bille         |  4       |  0              |
-| Module LIDAR            |  2       |  368 (Compte pas)|
+| Module LIDAR            |  2       |  0              |
 | Bandes lumineuses LED   |  2       |  0              |
 | Serre portative         |  1       |  160            |
-| Support pour serre      |  10      |  0              |
+| Bois support de serre   |  1       |  19 ( 14.99+ 3.99) |
 | RasberryPi              |  1       |  0              |
 | Souris Ordinateur       |  1       |  0              |
-| Plantes décoratives     |  ~       |  15             |
 | Tige fileté Acier       |  3       |  17             |
-| Nouille de piscine      |  2       |  7.80$          |
-| Fil de pèche            |  1       | 14$             |
+| Nouille de piscine      |  2       |  7.80           |
+| Fil de pèche            |  1       | 14              |
+| Papier sablé            |  1       | 6.55            |
+| Pinceau                 |  1       | 6.89            |
+| Colle de bois           |  1       | 7.99            |
+| Plante suspendue        | 1        | 4.50            |
+| Argile                  | 1        | 9.99            |
+| Anneau                  | 1        | 5.99            |
 | Écrou            | 1 | 1.02 |
 | Boulon           | 1 | 3.30 | 
 | Scie à métaux    | 1 | 21.49 | 
 | Forêt bois       | 1 | 10.99 |
-|  Total       | Prix estimé totale ($)  |  275.8       |
+|  Total       | Prix estimé totale ($)  |  177,52      |
 
 
 ## Logiciel
