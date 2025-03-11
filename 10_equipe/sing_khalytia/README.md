@@ -18,8 +18,8 @@
 * ![S4 Enregistrements sonores](enregistrements.jpg)
 * ![S4 Création de sons dans Reaper](sons.png)
 
-* ![S5 Mapping des toiles](mapping.png)
-* ![S5 Création d'un nouveau modèle de connecteurs]()
+* ![S5 Mapping des toiles](mapping_serre.png)
+* ![S5 Création d'un nouveau modèle de connecteurs](creer_3d.jpg)
 
 * ![S6 Repasser sur les toiles](vapeur.png)
 * ![S6 Monter le nouveau support pour la sphère](construction_sphere.png)
