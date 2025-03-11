@@ -30,7 +30,37 @@
     <style>
         :root {
             --theme-hue:2;
+            --theme-link: rgb(222, 233, 234); 
         }
+
+        body {
+            background-color: #07111a; 
+        }
+
+        .markdown-section a {
+            margin-top: 10px;
+            font-style: italic;
+            font-size: smaller;
+        }
+
+        .markdown-section a:hover {
+            color: #9ebdc6; 
+        }
+
+        .sidebar > h1 {
+            margin: 1rem 1rem 1rem; 
+            text-align: left;
+        }
+
+        .sidebar > h1 a {
+            color: var(--theme-link); 
+            font-weight: 600; 
+        }
+
+        .sidebar {
+            background-color: #0a1733; 
+        }
+
     </style>
 
 
@@ -42,7 +72,7 @@
 
     <script>
         window.$docsify = {
-            name: 'Modèle pour projet',
+            name: 'INTERNATURE',
             repo: 'https://github.com/tprangers/internature',
             auto2top: true,
             loadSidebar: true,    // Enable sidebar loading
