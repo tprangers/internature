@@ -1,4 +1,4 @@
 # Synoptique
 
-![Synoptique](branchement-refait.jpg)
+![Synoptique](synoptique.jpg)
 
