@@ -1,6 +1,6 @@
 # Khaly Tia Sing
 
- ![Membre_w](khalytia_sing.jpg)
+ ![Khaly Tia Sing](khalytia_sing.jpg)
 
  ## Réalisations
 
