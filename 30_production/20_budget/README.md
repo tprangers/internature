@@ -1,5 +1,4 @@
-# Budget Total
-500$
+# Budget Total 500$
 
 ## Matériel technique
 | Description                     | Quantité      | Prix unitaire | Coût total | Lien d'achat |
