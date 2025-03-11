@@ -10,16 +10,16 @@
 
 ## Tableau par semaine
 
-| Semaine | Dates          | À préparer durant la semaine                           | Savoirs essentiels / Activités en classe |
+| Semaine | Dates          | À préparer durant la semaine                           | Réalisation en classe |
 |---------|---------------|-------------------------------------------------|---------------------------------|
-| 1       | 20-24 Jan     | Réalisation de la préproduction                  | Présentation du cours, validation des équipes, conception de l’univers et de l’ambiance, planification du contenu multimédia. Inscription hebdomadaire à la documentation Web (individuel et en équipe). |
-| 2       | 27-31 Jan     | Réalisation de la préproduction, production de la vidéo d’intention | Planification technique et détermination des problèmes de production potentiels, planification du budget et de l’échéancier de réalisation, planification de la promotion du projet. Inscription hebdomadaire à la documentation Web (individuel et en équipe). |
-| 3       | 03-07 Fév     | Mise en ligne de la vidéo d’intention           | LUNDI : Visionnements en classe des vidéos d’intention, proposition créative, validation direction artistique site Web, thématique et type d’événement de diffusion. Inscription hebdomadaire à la documentation Web (individuel et en équipe). |
-| 4       | 10-14 Fév     | Réalisation d’une itération de la maquette, mise en ligne | Classement des médias, programmation d’éléments et intégration des médias, installation et adaptation aux différentes plateformes, application de tests de contrôle de la qualité et proposition de solutions aux problèmes rencontrés. Inscription hebdomadaire à la documentation Web (individuel et en équipe). |
-| 5       | 17-21 Fév     | Réalisation du projet final                     | LUNDI : Présentation en classe de la preuve de concept et de la maquette fonctionnelle. LUNDI : Évaluation de la contribution individuelle au travail d’équipe (formatif). Réalisation, création de contenus, programmation de l’interactivité et intégration des médias. Proposition créative et esthétique, rigueur, esprit d’équipe et débrouillardise. Inscription hebdomadaire à la documentation Web (individuel et en équipe). |
-| 6       | 24-28 Fév     | Réalisation du projet final                     | Installation et adaptation aux différentes plateformes du produit multimédia, vérification de la qualité des médias, conception d’éléments médiatiques et optimisation en fonction de la diffusion. Inscription hebdomadaire à la documentation Web (individuel et en équipe). |
-| REL.    | 03-07 Mars    | Réalisation du projet final                     | Application de tests de contrôle de la qualité, proposition de solutions aux problèmes rencontrés. |
-| 7       | 10-14 Mars    | Réalisation du projet final                     | Rigueur, esprit d’équipe et débrouillardise. Pratique générale. MARDI (MIDI) et MERCREDI (PM) : Présentation informelle aux élèves du cours d’œuvre et dispositif multimédia en exposition. Mise en ligne des projets sur site Web. |
-| 8       | 17-21 Mars    | Documentation finale et archivage               | LUNDI au VENDREDI : Présentation et documentation des projets. VENDREDI MATIN : Évaluation sommative de la contribution individuelle au travail d’équipe. VENDREDI : Démontage et rangement. |
+| 1       | 20-24 Jan     | Réalisation de la préproduction                  | Développement du concept, intention du projet et prototype de la sphère |
+| 2       | 27-31 Jan     | Réalisation de la préproduction, production de la vidéo d’intention | Production et montage de la vidéo d'intention et de photo de groupe, apprentissage de surge et de kinect , installation de la serre et mapping des projecteurs|
+| 3       | 03-07 Fév     | Mise en ligne de la vidéo d’intention           | Création des visuelles et programmation intéractives des visuelles, installation des haut-parleurs ,Enregistrements sonores,|
+| 4       | 10-14 Fév     | Réalisation d’une itération de la maquette, mise en ligne | Conception et création des tuyaux connecteurs,, Programmation d'interactivité, re-enregistrement de sons |
+| 5       | 17-21 Fév     | Réalisation du projet final                     |  Mapping et rattachement des toiles, Création d'un nouveau modèle de connecteurs, Repasser sur les toiles, Monter le nouveau support pour la sphère, re-impression de tuyaux pour la serre, programmation de l'intéractivité visuel|
+| 6       | 24-28 Fév     | Réalisation du projet final                     | retouche du support de la boule et decoration de la boule, programmation de l'intéractivité du son et du visuel, Présentation de la maquette aux premières années |
+| REL.    | 03-07 Mars    | Réalisation du projet final                     |  Finissions de la décoration|
+| 7       | 10-14 Mars    | Réalisation du projet final                     |  ravail des codes intéractifs des sphères et des vignes interactives sur plugdata, Travail des sons de sphère, de fleurs et de particules sur reaper,|
+| 8       | 17-21 Mars    | Documentation finale et archivage               |  Semaine du vernissage, donc présentations des projet finaux et documentation du projet finale |
 
 
