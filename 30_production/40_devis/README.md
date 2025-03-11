@@ -1,33 +1,33 @@
 # Devis Technique
 
 ## Matériel Requis
-| Item                    | Stock    | Prix estimé ($) |
-| :----------------------:| :------: |  :-----------:  |
-| Ordinateur Epson        |  1       |  0              |
-| Projecteur              |  2       |  0              |
-| Haut-parleur Genelec    |  2       |  0              |
-| Balle de bowling        |  1       |  5              |
-| Support pour la boule   |  1       |  20             |
-| Berring à bille         |  4       |  0              |
-| Module LIDAR            |  2       |  0              |
-| Bandes lumineuses LED   |  2       |  0              |
-| Serre portative         |  1       |  160            |
-| Bois support de serre   |  1       |  19 ( 14.99+ 3.99) |
-| RasberryPi              |  3       |  0              |
-| Souris Ordinateur       |  1       |  0              |
-| Tige fileté Acier       |  3       |  17             |
-| Nouille de piscine      |  2       |  7.80           |
-| Fil de pèche            |  1       | 14              |
-| Papier sablé            |  1       | 6.55            |
-| Pinceau                 |  1       | 6.89            |
-| Colle de bois           |  1       | 7.99            |
-| Plante suspendue        | 1        | 4.50            |
-| Argile                  | 1        | 9.99            |
-| Anneau                  | 1        | 5.99            |
-| Écrou            | 1 | 1.02 |
-| Boulon           | 1 | 3.30 | 
-| Scie à métaux    | 1 | 21.49 | 
-| Forêt bois       | 1 | 10.99 |
+| Item                                  | Quantité                   | Prix unitaire             | Prix estimé ($) |
+| :----------------------:              | :------:                   | :-----------:             | :-----------:   |
+| Ordinateur Epson                      |  1                         |  0                        |  0              |
+| Projecteur                            |  2                         |  0                        |  0              |
+| Haut-parleur Genelec                  |  2                         |  0                        |  0              |
+| Balle de bowling                      |  1                         |  5                        |  5              |
+| Support pour la boule                 |  1                         |  20                       |  20             |
+| Berring à bille                       |  4                         |   0                       |  0              |
+| Module LIDAR                          |  2                         |   0                       |  0              |
+| Bandes lumineuses LED                 |  2                         |   0                       |  0              |
+| Serre portative                       |  1                         |   160                     |  160            |
+| Bois support de serre                 |  2 (1 petit un grand)      |  14.99(Grand) 3.99(petit) |  19 ( 14.99+ 3.99) |
+| RasberryPi                            |  3                         |  0                        |  0              |
+| Souris Ordinateur                     |  1                         | 0                         |  0              |
+| Tige fileté Acier                     |  3                         | 17                        |  17             |
+| Nouille de piscine                    |  2                         | 7.80                      |  7.80           |
+| Fil de pèche                          |  1                         | 14                        |  14              |
+| Papier sablé                          |  1                         |  6.55                     | 6.55            |
+| Pinceau                               |  1       |  6.89            |                     6.89            |
+| Colle de bois                         |  1       |  7.99            |                     7.99            |
+| Plante suspendue                      | 1        |  4.50            |                       4.50            |
+| Argile                                | 1        |  9.99            |                    9.99            |
+| Anneau                                | 1        |  5.99            |                   5.99            |
+| Écrou                                 | 1        |  1.02            |                 1.02            |
+| Boulon                                | 1        |   3.30            |                  3.30            | 
+| Scie à métaux                         | 1        |   21.49           |                21.49           | 
+| Forêt bois                            | 1        |  10.99     |  10.99           |
 |  Total       | Prix estimé totale ($)  |  177,52      |
 
 
