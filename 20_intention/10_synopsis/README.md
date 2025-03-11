@@ -22,10 +22,15 @@ Pour que le projet fonctionne, il nous faut au minimum:
 ### Visuel
 En veille: Il y a une projection de veille sur les parois de la serre. 
 
+Lorsque la sphère est en mouvement, la projection va s'accroitre au travers de l'environnement selon la direction du roulement afin d'englober l'espace complet, l'animation régressant si l'utilisateur arrête le mouvement. Ensuite, une animation finale se déclenche. 
+
+Lorsque l'animation finale joue, ça prend quelques secondes avant de retourner à l'animation de veille. 
 
 ### Son
 En veille: Une musique d’ambiance en boucle diffusera une atmosphère calme et sombre. Cette immersion transporte les visiteurs dans un univers où la nature semble éteinte. 
 
-Lorsque les visiteurs roulent la boule, des animations apparaissent le long des parois, suivant la direction du mouvement, révélant l’impact de leurs actions sur l’environnement qui les entoure. Une fois que les animations atteignent leur apogée, la projection de lumière dirigée vers la sphère s’éteint, laissant place à des animations interactives sur les parois.  Les visiteurs pourront faire pousser des fleurs sur les plantes en touchant les parois du bout des doigts.
+Lorsque la sphère est en mouvement, les bruitages s'ajoutent à l'ambiance selon le mouvement de la sphère et les animations, déclenchant une bande de sons qui accompagne l'animation finale. 
 
-Si l’interaction n’est pas détectée, les visiteurs peuvent observer une régression des animations qu’ils avaient initialement activées en roulant la sphère. 
+
+
+
