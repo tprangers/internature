@@ -1,7 +1,7 @@
-<a href="https://youtu.be/pLxNPbXbVRE?si=0ZiVeGZ_q0b2-osc" style="display: flex; justify-content: space-around">
+<a style="display: flex; justify-content: space-around">
     <img src="thumbnail.jpg" width='900' style="height: 100%">
 </a>
-<a style="display: flex; justify-content: space-around">Vidéo d'intention</a>
+<a href="https://youtu.be/pLxNPbXbVRE?si=0ZiVeGZ_q0b2-osc" style="display: flex; justify-content: space-around">Vidéo d'intention</a>
 
 <br/>
 <br/>
