@@ -26,4 +26,3 @@
 
 * ![S7 Création du visuel de vignes](vapeur.png)
 * ![S7 Programmation des vignes](vapeur.png)
-* ![S7 Modification du visuel de fleurs](vapeur.png)
