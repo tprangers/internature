@@ -1,12 +1,5 @@
 # Gestion de projet
-
-* Utilisez les fonctions de suivi de Projet dans github
-
-* Plus précisément, le modèle "Product Launch" (Lancement de produit) 
-
-* Mettre des liens vers votre outil de gestion de projets ici  
-
-
+[lien de outils de gestions de tâches ](https://github.com/orgs/tprangers/projects/1)
 
 ## Tableau par semaine
 
