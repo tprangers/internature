@@ -20,6 +20,6 @@
 | 6       | 24-28 Fév     | Réalisation du projet final                     | Retouche du support de la boule et décoration de la boule, programmation de l'intéractivité du son et du visuel |
 | REL.    | 03-07 Mars    | Réalisation du projet final                     |  Finir de décorer la boule et continuer la programmation de l'intéractivité du son |
 | 7       | 10-14 Mars    | Réalisation du projet final                     |  Continuer la programmation de l' intéractivité de la sphère et des lidars ainsi que le visuel de la deuxième partie du projet |
-| 8       | 17-21 Mars    | Documentation finale et archivage               |  Semaine du vernissage donc la présentation des projets finaux et la documentation du projet finale afin de finir d' archiver le projet entier |
+| 8       | 17-21 Mars    | Documentation finale et archivage               |  Semaine du vernissage donc la présentation des projets finaux et la documentation du projet finale  |
 
 
