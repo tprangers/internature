@@ -23,3 +23,7 @@
 
 * ![S6 Repasser sur les toiles](vapeur.png)
 * ![S6 Monter le nouveau support pour la sphère](construction_sphere.png)
+
+* ![S7 Création du visuel de vignes](vapeur.png)
+* ![S7 Programmation des vignes](vapeur.png)
+* ![S7 Modification du visuel de fleurs](vapeur.png)
