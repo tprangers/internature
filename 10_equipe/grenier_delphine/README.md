@@ -18,5 +18,5 @@
 * 
 * ![S6 - Finission du support](delphine_s6_anneau.jpg)
 * 
-* ![S7 - Programmation des 2 lidars et ajustements de la programmation Touch Designer](grenier_delphine_s7.png)
+* ![S7 - Programmation des 2 lidars et ajustements de la programmation Touch Designer](grenier_delphine_s7.jpg)
  
