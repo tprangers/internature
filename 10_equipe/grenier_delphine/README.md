@@ -15,5 +15,8 @@
 * ![S4 - Conception des rallonges des pattes de la serre](grenier_delphine_s4.png)
 
 * ![S5 - Mapping et programmation de l'intéractivité dans Touch Designer](grenier_delphine_s5.png)
+* 
 * ![S6 - Finission du support](delphine_s6_anneau.jpg)
+* 
+* ![S7 - Programmation des 2 lidars et ajustements de la programmation Touch Designer](grenier_delphine_s7.png)
  
