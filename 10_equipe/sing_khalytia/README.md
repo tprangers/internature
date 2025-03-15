@@ -26,4 +26,5 @@
 
 * ![S7 Création du visuel de vignes](creationvines.jpg)
 * ![S7 Programmation des vignes](programmationvines.jpg)
-* ![S7 Mappign final]()
+* ![S7 Mapping final]()
+* ![S7 Capture vidéo de la bande d'annonce]()
