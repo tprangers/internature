@@ -23,3 +23,6 @@
 * ![S6 Rattachement serre](attachement_serre.png)
 * ![S6 Support](support.png)
 * ![S6 Peinture boulle](boule.png)
+
+* ![S7 Touche finale sur le support](support_finale.png)
+* ![S7 Mapping](mapping_encore.png)
