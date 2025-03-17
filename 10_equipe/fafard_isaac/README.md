@@ -25,6 +25,6 @@
 * ![S6 Amélioration du piédestal](piedestal-switch.png)
 * ![S6 Programmation Reaper du son en fadeIn&fadeOut](Programmation-son.png)
 
-* ![S7 Mapping](Programmation-son.png)
-* ![S7 Programmation TouchDesigner & travail des LiDARs](Programmation-son.png)
-* ![S7 Déplacement de l'équipement hors du studio](Programmation-son.png)
+* ![S7 Mapping](mapping.png)
+* ![S7 Programmation TouchDesigner & travail des LiDARs](lidar-prog.png)
+* ![S7 Déplacement de l'équipement hors du studio](deplacement-stock.png)
