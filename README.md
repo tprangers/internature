@@ -11,6 +11,10 @@
 ## [Vidéo d'intention](https://youtu.be/pLxNPbXbVRE?si=0ZiVeGZ_q0b2-osc)
 
 ## [Bande annonce](https://youtu.be/dI_DeIEkmxw?si=Y-lhUr6N7_BLQAMJ)
+<iframe width="420" height="315"
+src="https://youtu.be/dI_DeIEkmxw?si=Y-lhUr6N7_BLQAMJ&loop=1">
+</iframe>
+
 
 ## Documentation installation
 
