@@ -26,3 +26,6 @@
 
 * ![S7 Touche finale sur le support](support_finale.png)
 * ![S7 Mapping](mapping_encore.png)
+  
+* ![S8 Tournage](making_of.jpg)
+* ![S8 Présentation de l' exposition](exposition.jpg)
