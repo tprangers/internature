@@ -28,3 +28,6 @@
 * ![S7 Programmation des vignes](programmationvines.jpg)
 * ![S7 Mapping final](mapping_avec_isaac.jpg)
 * ![S7 Capture vidéo de la bande d'annonce](camera.jpg)
+
+* ![S8 Exposition](lol)
+* ![S8 Démontage](demontage.jpg)
