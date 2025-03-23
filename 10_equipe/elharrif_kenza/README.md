@@ -21,3 +21,6 @@
 * ![S6 Finissions de la boule](kenza_s6_boule.jpg)
 * ![S7 Travail des sons de sphère, de fleurs et de particules sur reaper](S7_travail_sons.png)
 * ![S7 Travail des codes intéractifs des sphères et des vignes interactives sur plugdata](S7_ajustement_codes_vignes.png)
+* ![S8 Design des fleurs](s8_touchdesigner_fleur.png)
+* ![S8 Création des particules et interactivité pour LIDARS](s8_touchdesigner_particules.png)
+* ![S8 Ajustements pour l'interactivité sonor avec sphère et LIDARS](s8_touchdesigner_code_sono.png)
