@@ -24,3 +24,6 @@
 * ![S8 Design des fleurs](s8_touchdesigner_fleur.png)
 * ![S8 Création des particules et interactivité pour LIDARS](s8_touchdesigner_particules.png)
 * ![S8 Ajustements pour l'interactivité sonor avec sphère et LIDARS](s8_touchdesigner_code_sono.png)
+* ![S8 Montage de la bande annonce Internature](s8_montage_bande_annonce.png)
+* ![S9 Exposition](s9_exposition.png)
+* ![S9 Tournage et montage vidéo pour la vidéo promotionnelle](s9_montage_making_of.png)
