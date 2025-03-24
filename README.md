@@ -12,11 +12,11 @@
 
 ## [Bande annonce](https://youtu.be/dI_DeIEkmxw?si=Y-lhUr6N7_BLQAMJ)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/dI_DeIEkmxw?si=VQGpY98ztfh1f0rK&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/dI_DeIEkmxw?si=VQGpY98ztfh1f0rK&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## [Documentation installation](https://www.youtube.com/watch?v=vxIGUEq9AZg&ab_channel=TPRANGERS)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vxIGUEq9AZg?si=2Wmvo-TeBDhZLXOI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/vxIGUEq9AZg?si=2Wmvo-TeBDhZLXOI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Gallerie image
 
